@@ -25,7 +25,11 @@ Install ProofIt! from the chrome web stroe
 - [@zallumy](https://www.github.com/zallumy)
 
 
-## Support
+## 🛠 Skills
+Javascript, HTML, CSS...
 
-For support, email achref@zallu.me .
+
+## Screenshot
+
+![App Screenshot](https://lh3.googleusercontent.com/2hPLvWvwPnhWC2B6QrKrva5DjL4fyAQ_G8DbxLe6-S2M8n-kNsfmUKXWUBIJx_0eh7_OtzwvjAffAMiy-TJJDAa5=s1280-w1280-h800)
 
